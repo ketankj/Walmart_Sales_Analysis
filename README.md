@@ -88,7 +88,7 @@ jupyter notebook Walmart_Sales_Analysis.ipynb
 
 ## 📁 File Structure
 ```bash
-walmart-sales-analysis/
+Walmart-Sales-Analysis/
 ├── README.md                      # Project Documentation
 ├── Walmart_Sales.sql               # SQL script for data processing
 ├── Walmart_Sales.csv               # Cleaned dataset (if permissible)
@@ -103,7 +103,6 @@ walmart-sales-analysis/
 🔹 **Seasonality & Holiday Impact** – Comparative analysis of **holiday vs. non-holiday weeks**.  
 🔹 **Regional Sales Trends** – Fuel Price, CPI, and Unemployment **impact on store sales**.
 
-📌 **[Add Screenshot Here]**  
 
 ## 🔮 Future Scope
 ✔ **Enhanced Store-Level Analysis** – Integrate **store size, demographics, marketing data**.  
